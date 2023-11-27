@@ -2,6 +2,7 @@
 
 A simple and elegant weather app built with React.
 
+![Screenshot from 2023-11-27 17-28-40](https://github.com/karthickop6/React-Weather-App/assets/72570119/e563dadf-fd2a-42e4-8297-6f218d0684fd)
 
 ## Features
 
